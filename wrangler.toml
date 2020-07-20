@@ -1,0 +1,7 @@
+type = "webpack"
+name = "pixiv"
+zone_id = ""
+account_id = ""
+route = ""
+workers_dev = true
+webpack_config = "webpack.config.js"
